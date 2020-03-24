@@ -5,11 +5,7 @@ height="0.4218755468066492in"}
 
 [ ]{.underline} Interview Challenge
 
-Candidate : Hajer Mahjoub
 
-Data Science Engineer Student
-
-At ESPRIT Tunis
 
 1.  **[Exploratory data analysis :]{.underline}**
 
